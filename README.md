@@ -59,4 +59,4 @@ Each instance is described by four numerical features:
 1. Clone the repository:
    ```bash
    git clone https://github.com/mohan2801/Elevate-Lab_Task6.git
-   cd iElevate-Lab_Task6
+   cd Elevate-Lab_Task6
